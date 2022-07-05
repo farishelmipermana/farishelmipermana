@@ -48,6 +48,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/farishelmi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farishelmi" /></a><a href="https://ko-fi.com/farishelmi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="farishelmi" /></a></p><br><br>
 
+<a href="https://trakteer.id/farishelmi/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.jpg" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farishelmipermana&show_icons=true&locale=en&layout=compact" alt="farishelmipermana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farishelmipermana&show_icons=true&locale=en" alt="farishelmipermana" /></p>
